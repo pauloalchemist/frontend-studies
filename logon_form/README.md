@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=html&message=language&color=green&style=for-the-badge&logo=HTML5"/> <img src="https://img.shields.io/static/v1?label=css&message=language&color=green&style=for-the-badge&logo=CSS3"/>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 # Logon screen with HTML and CSS
 
