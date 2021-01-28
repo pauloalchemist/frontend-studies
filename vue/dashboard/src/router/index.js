@@ -1,5 +1,10 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHistory, defineAsyncComponent } from 'vue-router'
 import Home from '../views/Home.vue'
+
+const Home = () => import('')
+const Feedbacks = () => import('')
+const Credencials = () => import('')
+
 
 const routes = [
   {
@@ -18,7 +23,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHistory('/'),
   routes
 })
 
