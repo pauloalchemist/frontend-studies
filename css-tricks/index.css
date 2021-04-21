@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.main input:in-range {
+  border: 1px solid green;
+}
+
+.main input:out-of-range {
+  border: 1px solid red;
+}
